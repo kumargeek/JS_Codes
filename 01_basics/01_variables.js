@@ -6,7 +6,7 @@ let accountID = "2426MCA412"
 
 //accountId = 2   //not allowed
 // node notices it and gives an error 
-console.log(accountId);
+console.log(accountId);  // Check waht does it do
 console.log(accountCity);   //here no error found
 
 
