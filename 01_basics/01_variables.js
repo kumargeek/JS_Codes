@@ -3,7 +3,7 @@ let accountEmail = "Kumar.2426mca412@kiet.edu"
 var accountPassword = "12345"
 var accountCity = "Jaipur"
 let accountID = "2426MCA412"
-const HelloSize = 996 //a random vairable
+const HelloSize = 9968 //a random vairable
 
 //accountId = 2   //not allowed
 // node notices it and gives an error 
