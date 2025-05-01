@@ -9,7 +9,7 @@ const HelloSize = 9968 //a random vairable
 // node notices it and gives an error 
 console.log(accountId);  // Check what does it do
 console.log(accountCity);   //here no error found
-
+console.log(HelloSize); 
 
 
 
