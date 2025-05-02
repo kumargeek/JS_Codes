@@ -10,6 +10,7 @@ const HelloSize = 9968 //a random vairable
 console.log(accountId);  // Check what does it do
 console.log(accountCity);   //here no error found
 console.log(HelloSize); 
+console.log("Hello World!");
 
 
 
