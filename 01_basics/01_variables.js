@@ -13,6 +13,8 @@ console.log(HelloSize);
 console.log("Hello World!"); //prints hello world
 console.log("Another Line"); //comment
 console.log("Again Hello World!"); //comment
+console.log("new conlose.log");
+
 
 
 
