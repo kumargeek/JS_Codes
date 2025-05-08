@@ -1,20 +1,19 @@
 const accountId = 412
-let accountEmail = "Kumar.2426mca412@kiet.edu"
+let accountEmail = "Kumar.2426mca412@kiet.edu" 
+// prefer not to use var because of block{} and functional scope
+//use let instead
 var accountPassword = "12345"
-var accountCity = "Jaipur"
-let accountID = "2426MCA412" //comment
-const HelloSize = 9968 //a random vairable
+accountCity = "Jaipur"
+let accountState; // not defined so gives output undefined
 
-//accountId = 2   //not allowed
-// node notices it and gives an error 
-console.log(accountId);  // Check what does it do
-console.log(accountCity);   //here no error found
-console.log(HelloSize); 
-console.log("Hello World!"); //prints hello world
-console.log("Another Line"); //comment
-console.log("Again Hello World!"); //comment
-console.log("new conlose.log"); //comment
-console.log("last line was written incorrectly"); //comment
+// accountId = 2    //not allowed
+accountEmail = "abc@gmail.com"
+accountPassword = "54321"
+accountCity = "Delhi"
+console.log(accountId);
+console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
+
+
 
 
 
