@@ -14,7 +14,7 @@ console.log("Hello World!"); //prints hello world
 console.log("Another Line"); //comment
 console.log("Again Hello World!"); //comment
 console.log("new conlose.log"); //comment
-console.log("last line was written incorrectly");
+console.log("last line was written incorrectly"); //comment
 
 
 
