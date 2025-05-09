@@ -20,8 +20,9 @@ let state
 // undefined -> variable is declered but value is not assigned
 // symbol -> unique
 
-// object
+
 
 console.log(typeof age);  // gives output number
+// object
 console.log(typeof null);   // gives output object
 console.log(typeof undefined);   // gives output  undefined
