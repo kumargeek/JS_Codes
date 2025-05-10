@@ -1,5 +1,7 @@
 const accountId = 412
-let accountEmail = "Kumar.2426mca412@kiet.edu" 
+let accountEmail = "Kumar.2426mca412@kiet.edu"
+// var : Declares a variable, optionally initializing it to a value 
+// let : Declares a block-scoped, local variable, optionally initializing it to a value.
 // prefer not to use var because of block{} and functional scope
 //use let instead
 var accountPassword = "12345"
