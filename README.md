@@ -1,3 +1,3 @@
 # JS_Codes
-Codes done during learning JavsScript
+Codes done while learning JavsScript from scratch
 ....
